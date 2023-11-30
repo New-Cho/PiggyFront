@@ -5,7 +5,7 @@ function Side(){
 
             <div>
                 <div className="brand-logo d-flex align-items-center justify-content-between">
-                    <a href="./index.html" className="text-nowrap logo-img">
+                    <a href="#" className="text-nowrap logo-img">
                         <img src="../assets/images/logos/dark-logo.svg" width="180" alt="" />
                     </a>
                     <div className="close-btn d-xl-none d-block sidebartoggler cursor-pointer" id="sidebarCollapse">
@@ -20,7 +20,7 @@ function Side(){
                             <span className="hide-menu">Home</span>
                         </li>
                         <li className="sidebar-item">
-                            <a className="sidebar-link" href="./index.html" aria-expanded="false">
+                            <a className="sidebar-link" href="#" aria-expanded="false">
                 <span>
                   <i className="ti ti-layout-dashboard"></i>
                 </span>
@@ -32,7 +32,7 @@ function Side(){
                             <span className="hide-menu">UI COMPONENTS</span>
                         </li>
                         <li className="sidebar-item">
-                            <a className="sidebar-link" href="./ui-buttons.html" aria-expanded="false">
+                            <a className="sidebar-link" href="#" aria-expanded="false">
                 <span>
                   <i className="ti ti-article"></i>
                 </span>
@@ -40,7 +40,7 @@ function Side(){
                             </a>
                         </li>
                         <li className="sidebar-item">
-                            <a className="sidebar-link" href="./ui-alerts.html" aria-expanded="false">
+                            <a className="sidebar-link" href="#" aria-expanded="false">
                 <span>
                   <i className="ti ti-alert-circle"></i>
                 </span>
@@ -48,7 +48,7 @@ function Side(){
                             </a>
                         </li>
                         <li className="sidebar-item">
-                            <a className="sidebar-link" href="./ui-card.html" aria-expanded="false">
+                            <a className="sidebar-link" href="#" aria-expanded="false">
                 <span>
                   <i className="ti ti-cards"></i>
                 </span>
@@ -56,7 +56,7 @@ function Side(){
                             </a>
                         </li>
                         <li className="sidebar-item">
-                            <a className="sidebar-link" href="./ui-forms.html" aria-expanded="false">
+                            <a className="sidebar-link" href="#" aria-expanded="false">
                 <span>
                   <i className="ti ti-file-description"></i>
                 </span>
@@ -64,7 +64,7 @@ function Side(){
                             </a>
                         </li>
                         <li className="sidebar-item">
-                            <a className="sidebar-link" href="./ui-typography.html" aria-expanded="false">
+                            <a className="sidebar-link" href="#" aria-expanded="false">
                 <span>
                   <i className="ti ti-typography"></i>
                 </span>
@@ -76,7 +76,7 @@ function Side(){
                             <span className="hide-menu">AUTH</span>
                         </li>
                         <li className="sidebar-item">
-                            <a className="sidebar-link" href="./authentication-login.html" aria-expanded="false">
+                            <a className="sidebar-link" href="#" aria-expanded="false">
                 <span>
                   <i className="ti ti-login"></i>
                 </span>
@@ -84,7 +84,7 @@ function Side(){
                             </a>
                         </li>
                         <li className="sidebar-item">
-                            <a className="sidebar-link" href="./authentication-register.html" aria-expanded="false">
+                            <a className="sidebar-link" href="#" aria-expanded="false">
                 <span>
                   <i className="ti ti-user-plus"></i>
                 </span>
@@ -96,7 +96,7 @@ function Side(){
                             <span className="hide-menu">EXTRA</span>
                         </li>
                         <li className="sidebar-item">
-                            <a className="sidebar-link" href="./icon-tabler.html" aria-expanded="false">
+                            <a className="sidebar-link" href="#" aria-expanded="false">
                 <span>
                   <i className="ti ti-mood-happy"></i>
                 </span>
@@ -104,7 +104,7 @@ function Side(){
                             </a>
                         </li>
                         <li className="sidebar-item">
-                            <a className="sidebar-link" href="./sample-page.html" aria-expanded="false">
+                            <a className="sidebar-link" href="#" aria-expanded="false">
                 <span>
                   <i class="ti ti-aperture"></i>
                 </span>
@@ -116,7 +116,7 @@ function Side(){
                         <div class="d-flex">
                             <div class="unlimited-access-title me-3">
                                 <h6 class="fw-semibold fs-4 mb-6 text-dark w-85">Upgrade to pro</h6>
-                                <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/" target="_blank" class="btn btn-primary fs-2 fw-semibold lh-sm">Buy Pro</a>
+                                <a href="#" target="_blank" class="btn btn-primary fs-2 fw-semibold lh-sm">Buy Pro</a>
                             </div>
                             <div class="unlimited-access-img">
                                 <img src="../assets/images/backgrounds/rocket.png" alt="" class="img-fluid"></img>
