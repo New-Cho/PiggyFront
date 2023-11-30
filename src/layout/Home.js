@@ -9,7 +9,7 @@ function Home(){
                         <div class="card-body">
                             <div class="d-sm-flex d-block align-items-center justify-content-between mb-9">
                                 <div class="mb-3 mb-sm-0">
-                                    <h5 class="card-title fw-semibold">Sales Overview</h5>
+                                    <h5 class="card-title fw-semibold">월간 지출</h5>
                                 </div>
                                 <div>
                                     <select class="form-select">
@@ -30,7 +30,7 @@ function Home(){
 
                             <div class="card overflow-hidden">
                                 <div class="card-body p-4">
-                                    <h5 class="card-title mb-9 fw-semibold">Yearly Breakup</h5>
+                                    <h5 class="card-title mb-9 fw-semibold">고정 지출-켈린더</h5>
                                     <div class="row align-items-center">
                                         <div class="col-8">
                                             <h4 class="fw-semibold mb-3">$36,358</h4>
@@ -68,7 +68,7 @@ function Home(){
                                 <div class="card-body">
                                     <div class="row alig n-items-start">
                                         <div class="col-8">
-                                            <h5 class="card-title mb-9 fw-semibold"> Monthly Earnings </h5>
+                                            <h5 class="card-title mb-9 fw-semibold">소득</h5>
                                             <h4 class="fw-semibold mb-3">$6,820</h4>
                                             <div class="d-flex align-items-center pb-1">
                           <span
@@ -100,7 +100,7 @@ function Home(){
                     <div class="card w-100">
                         <div class="card-body p-4">
                             <div class="mb-4">
-                                <h5 class="card-title fw-semibold">Recent Transactions</h5>
+                                <h5 class="card-title fw-semibold">현금지출</h5>
                             </div>
                             <ul class="timeline-widget mb-0 position-relative mb-n5">
                                 <li class="timeline-item d-flex position-relative overflow-hidden">
@@ -162,7 +162,7 @@ function Home(){
                 <div class="col-lg-8 d-flex align-items-stretch">
                     <div class="card w-100">
                         <div class="card-body p-4">
-                            <h5 class="card-title fw-semibold mb-4">Recent Transactions</h5>
+                            <h5 class="card-title fw-semibold mb-4">최근 거래내역</h5>
                             <div class="table-responsive">
                                 <table class="table text-nowrap mb-0 align-middle">
                                     <thead class="text-dark fs-4">
